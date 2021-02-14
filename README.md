@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @RedSnip8. My name is Frank Cipolone!
-- 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning to develop and deploy web applications for clioents.
-- 💞️ I’m looking to collaborate on projects that give back and enrich society.
+- 👋 Hi, I’m @RedSnip8 and my name is Frank Cipolone!
+-    I’m interested in Web Development and Design.
+     I’m currently learning React and Ruby. I’m looking 
+     to collaborate on projects that give back and enrich society.
+     
 - 📫 How to reach me: FCipolone@gmail.com
                       (856) 993-4819
 
